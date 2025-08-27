@@ -28,3 +28,31 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 git clone https://github.com/ShrayHub/Sentiment-Analysis-Using-Deep-Learning
 cd Sentiment-Analysis-Using-Deep-Learning
 pip install -r requirements.txt
+
+## 📊 Outputs & Results
+
+### Sentiment Distribution
+![Emotion Distribution](docs/images/emotion_distribution.png)
+
+### Input Length Analysis
+![Input Length](docs/images/input_length.png)
+
+### Training Tweets (Length < 10 Words)
+![Training Tweets](docs/images/train_tweets.png)
+
+### Test Tweets (Length < 10 Words)
+![Test Tweets](docs/images/test_tweets.png)
+
+### BERT Classification Report
+![Classification Report](docs/images/classification_report.png)
+
+### Confusion Matrix
+![Confusion Matrix](docs/images/confusion_matrix.png)
+
+---
+
+### ✅ Results
+- Achieved a **Weighted F1 Score of 86%** on the SMILE dataset  
+- Outperformed traditional ML methods (Naive Bayes, SVM, Logistic Regression)  
+- Accurately handled short-form tweets and informal language  
+- Identified sentiment trends and potential harassment patterns effectively
