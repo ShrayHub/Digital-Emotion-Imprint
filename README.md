@@ -12,6 +12,7 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 
 
 ## 📂 Project Structure
+```
 ├── data/ # Dataset samples (Sentiment140/SMILE links in README)
 ├── src/ # Source code (preprocessing, training, evaluation)
 ├── notebooks/ # Jupyter notebooks
@@ -20,7 +21,7 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 ├── requirements.txt # Dependencies
 ├── .gitignore # Ignored files
 └── README.md # Project overview
-
+```
 
 ## ⚙️ Installation
 ```bash
