@@ -1,4 +1,4 @@
-## 📓 Notebooks  
+## 📓 Notebook
 
 The full training and evaluation notebook is available here:  
 
