@@ -1,0 +1,12 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+nltk
+regex
+wordcloud
+google colab
