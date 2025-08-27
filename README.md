@@ -39,7 +39,7 @@ cd Sentiment-Analysis-Using-Deep-Learning
 pip install -r requirements.txt
 ```
 
-## 📊 Outputs & Results
+## 📊 Outputs 
 
 ### Sentiment Distribution
 ![Emotion Distribution](emotion_distribution.png)
@@ -59,7 +59,16 @@ pip install -r requirements.txt
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
----
+
+## Results
+
+| Model              | Accuracy | Precision | Recall | F1-score |
+|--------------------|----------|-----------|--------|----------|
+| Naive Bayes        | 71%      | 70%       | 69%    | 70%      |
+| SVM                | 74%      | 73%       | 72%    | 73%      |
+| Logistic Regression| 75%      | 74%       | 73%    | 74%      |
+| **BERT (ours)**    | **86%**  | **86%**   | **85%**| **86%**  |
+
 
 ### ✅ Results
 - Achieved a **Weighted F1 Score of 86%** on the SMILE dataset  
