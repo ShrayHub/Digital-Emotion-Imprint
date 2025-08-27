@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## 📊 Outputs & Results
 
 ### Sentiment Distribution
-![Emotion Distribution](docs/images/emotion_distribution.png)
+![Emotion Distribution](emotion_distribution.png)
 
 ### Input Length Analysis
 ![Input Length](docs/images/input_length.png)
