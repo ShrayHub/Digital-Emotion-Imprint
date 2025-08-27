@@ -36,19 +36,19 @@ pip install -r requirements.txt
 ![Emotion Distribution](emotion_distribution.png)
 
 ### Input Length Analysis
-![Input Length](docs/images/input_length.png)
+![Input Length](input_length.png)
 
 ### Training Tweets (Length < 10 Words)
-![Training Tweets](docs/images/train_tweets.png)
+![Training Tweets](train_tweets.png)
 
 ### Test Tweets (Length < 10 Words)
-![Test Tweets](docs/images/test_tweets.png)
+![Test Tweets](test_tweets.png)
 
 ### BERT Classification Report
-![Classification Report](docs/images/classification_report.png)
+![Classification Report](classification_report.png)
 
 ### Confusion Matrix
-![Confusion Matrix](docs/images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
