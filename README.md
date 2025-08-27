@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ![Confusion Matrix](confusion_matrix.png)
 
 
-## Results
+### Results
 
 | Model              | Accuracy | Precision | Recall | F1-score |
 |--------------------|----------|-----------|--------|----------|
@@ -70,7 +70,6 @@ pip install -r requirements.txt
 | **BERT (ours)**    | **86%**  | **86%**   | **85%**| **86%**  |
 
 
-### ✅ Results
 - Achieved a **Weighted F1 Score of 86%** on the SMILE dataset  
 - Outperformed traditional ML methods (Naive Bayes, SVM, Logistic Regression)  
 - Accurately handled short-form tweets and informal language  
