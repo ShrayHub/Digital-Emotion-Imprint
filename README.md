@@ -1,3 +1,7 @@
+
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red.svg)
+
 # Sentiment Analysis Using Deep Learning
 
 This project uses **BERT (Bidirectional Encoder Representations from Transformers)** for sentiment and emotion analysis on online platforms like Twitter. It classifies text as **positive, negative, or neutral**, tracks emotional trends, and identifies potential signs of harassment or distress.
