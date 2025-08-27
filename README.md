@@ -11,6 +11,15 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 - Modular design for easy scalability and integration  
 
 
+## 📂 Dataset
+
+A small demo dataset (`data/sample.csv`) is included so you can quickly test the pipeline without downloading anything.
+
+For full experiments:  
+- Download **Sentiment140** and **SMILE** datasets using the instructions in [`data/README.md`](data/README.md).  
+- Place the files in the `data/` folder before running the training s
+
+
 ## 📂 Project Structure
 ```
 ├── data/ # Dataset samples (Sentiment140/SMILE links in README)
