@@ -28,6 +28,7 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 git clone https://github.com/ShrayHub/Sentiment-Analysis-Using-Deep-Learning
 cd Sentiment-Analysis-Using-Deep-Learning
 pip install -r requirements.txt
+```
 
 ## 📊 Outputs & Results
 
