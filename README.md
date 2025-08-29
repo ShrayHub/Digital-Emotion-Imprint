@@ -27,12 +27,8 @@ For full experiments:
 ## 📂 Project Structure
 ```
 ├── data/ # Dataset samples (Sentiment140/SMILE links in README)
-├── src/ # Source code (preprocessing, training, evaluation)
 ├── notebooks/ # Jupyter notebooks
-├── tests/ # Unit & integration tests
-├── docs/ # Report and documentation
 ├── requirements.txt # Dependencies
-├── .gitignore # Ignored files
 └── README.md # Project overview
 ```
 
